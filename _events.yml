@@ -1,3 +1,11 @@
+- date:2015-05-28
+  title: "Presentation of avalbit"
+  venue: "Las naves"
+  address: "Juan verdeguer 16"
+  city: "Valencia"
+  country: "spain"
+  link: "http://avalbit.org"
+
 - date: 2015-05-26
   title: "Bitcoin and Electronic Crime - APWG eCrime 2015"
   venue: "CaixaForum / Casa Ramona"
@@ -69,3 +77,4 @@
   city: "Miami Beach, FL"
   country: "United States"
   link: "http://www.imtconferences.com/mtbit/"
+  
